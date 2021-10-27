@@ -1,31 +1,3 @@
-# from nltk.corpus.reader.wordnet import ADJ, ADV, NOUN, VERB
-# from ldaV1 import lemmatize
-# import nltk
-# nltk.download('wordnet')
-# import pandas as pd
-
-# reviews = pd.read_csv('./Review.csv', index_col=0)
-# reviews = reviews.drop(columns=['Id', 'ProductId', 'UserId', 'ProfileName', 'HelpfulnessNumerator', \
-#     'HelpfulnessDenominator', 'Score', 'Time', 'Summary', 'Num_words_text'], axis=1)
-
-# def lemmatize(df):
-#     lemmatizer = nltk.stem.WordNetLemmatizer()
-#     for i, review in enumerate(df):
-#         if i > 1:
-#             break
-#         words = nltk.word_tokenize(review)
-#         yield(' '.join([lemmatizer.lemmatize(w) for w in words]))
-
-# lemmatizer = nltk.stem.WordNetLemmatizer()
-
-# print(lemmatizer.lemmatize('flavors', pos=NOUN))
-# print(lemmatizer.lemmatize('flavors', pos=VERB))
-# print(lemmatizer.lemmatize('flavors', pos=ADJ))
-# print(lemmatizer.lemmatize('flavors', pos=ADV))
-
-# #print(list(lemmatize(reviews)))
-
-
 from gensim import models
 from gensim.models.ldamodel import LdaModel
 import nltk
