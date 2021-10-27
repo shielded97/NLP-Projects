@@ -1,0 +1,51 @@
+Alpha: 0 Eta: 0 Average topic coherence: -2.0060.
+ 
+Alpha: 0 Eta: 1 Average topic coherence: -1.8579.
+
+BEST:
+Alpha: 0 Eta: 2 Average topic coherence: -1.8170.
+ 
+Alpha: 0 Eta: 3 Average topic coherence: -1.9707.
+ 
+Alpha: 0 Eta: 4 Average topic coherence: -1.9071.
+ 
+Alpha: 1 Eta: 0 Average topic coherence: -1.9052.
+ 
+Alpha: 1 Eta: 1 Average topic coherence: -1.9705.
+ 
+Alpha: 1 Eta: 2 Average topic coherence: -1.9794.
+ 
+Alpha: 1 Eta: 3 Average topic coherence: -2.0690.
+ 
+Alpha: 1 Eta: 4 Average topic coherence: -1.9306.
+ 
+Alpha: 2 Eta: 0 Average topic coherence: -2.1057.
+ 
+Alpha: 2 Eta: 1 Average topic coherence: -1.9080.
+ 
+Alpha: 2 Eta: 2 Average topic coherence: -1.9955.
+ 
+Alpha: 2 Eta: 3 Average topic coherence: -1.9191.
+ 
+Alpha: 2 Eta: 4 Average topic coherence: -1.9021.
+ 
+Alpha: 3 Eta: 0 Average topic coherence: -1.8554.
+ 
+Alpha: 3 Eta: 1 Average topic coherence: -1.9157.
+ 
+Alpha: 3 Eta: 2 Average topic coherence: -2.0821.
+ 
+Alpha: 3 Eta: 3 Average topic coherence: -1.9330.
+ 
+Alpha: 3 Eta: 4 Average topic coherence: -1.9317.
+ 
+Alpha: 4 Eta: 0 Average topic coherence: -1.8415.
+ 
+Alpha: 4 Eta: 1 Average topic coherence: -2.0957.
+ 
+Alpha: 4 Eta: 2 Average topic coherence: -1.9756.
+ 
+Alpha: 4 Eta: 3 Average topic coherence: -1.9621.
+ 
+Alpha: 4 Eta: 4 Average topic coherence: -1.9417.
+
